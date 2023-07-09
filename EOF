@@ -1,0 +1,10 @@
+Trying 192.168.88.21...
+Connected to 192.168.88.21.
+Escape character is '^]'.
+E04
+E04
+R
+R
+
+telnet> ?Invalid command
+telnet> Connection closed.
